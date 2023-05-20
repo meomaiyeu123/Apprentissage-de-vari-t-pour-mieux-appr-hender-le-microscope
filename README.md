@@ -1,1 +1,1 @@
-# Apprentissage-de-vari-t-pour-mieux-appr-hender-le-microscope
+# Apprentissage de variété pour mieux appréhender le microscope
